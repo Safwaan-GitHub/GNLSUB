@@ -15,7 +15,7 @@ This project is perfect for reinforcing concepts of static variables, dynamic me
 
 ```
 1. Clone the repository
-- https://github.com/Safwaan-GitHub/push_swap.git
+- https://github.com/Safwaan-GitHub/GNLSUB.git
 
 2. Change directory
 - cd push_swap
@@ -40,7 +40,8 @@ Multiple File Descriptors: Capable of managing multiple file descriptors simulta
 ## Usage
 
 Compilation: To use the Get Next Line function in your project, compile it along with your files, ensuring you link any necessary libraries.
-Calling the Function: Simply call get_next_line with a valid file descriptor to read the next line from your file or input stream.
+
+### Calling the Function: Simply call get_next_line with a valid file descriptor to read the next line from your file or input stream.
 
 ## Challenges-and-Learnings
 
