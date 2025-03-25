@@ -18,10 +18,7 @@ This project is perfect for reinforcing concepts of static variables, dynamic me
 - https://github.com/Safwaan-GitHub/GNLSUB.git
 
 2. Change directory
-- cd push_swap
-
-3. Compile the program
-- make
+- cd GNLSUB
 ```
 
 ## Features
@@ -41,7 +38,7 @@ Multiple File Descriptors: Capable of managing multiple file descriptors simulta
 
 Compilation: To use the Get Next Line function in your project, compile it along with your files, ensuring you link any necessary libraries.
 
-### Calling the Function: Simply call get_next_line with a valid file descriptor to read the next line from your file or input stream.
+Calling the Function: Simply call get_next_line with a valid file descriptor to read the next line from your file or input stream.
 
 ## Challenges-and-Learnings
 
